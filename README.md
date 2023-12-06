@@ -33,4 +33,4 @@ Misfar follows a client-server architecture to ensure efficient communication be
 Misfar's plans include expanding to cover all cities in Saudi Arabia, implementing features like liking and replying to specific reviews, and adding videos along with reviews. An app version and additional features related to Saudi seasons and tour planning are also planned.
 
 ## Resources
-- [Misfar GitHub Repository](https://github.com/ManarMutaieb/Misfar/blob/main/Misfar%20Documnet.pdf)
+- [Misfar Documentation](https://github.com/ManarMutaieb/Misfar/blob/main/Misfar%20Documnet.pdf)
