@@ -1,7 +1,7 @@
 # Misfar
 A review website for Saudi Arabia attractions
 
-# Misfar Presentation
+# Team Memebers
 - [Ghadeer Almaymoon](https://github.com/ghadeerAbdulmajeed)
 - [Randa Bakhashwain](https://github.com/Rand-msb)
 - [Manar Mutaieb](https://github.com/ManarMutaieb)
@@ -27,7 +27,7 @@ The system users of Misfar include **tourists** and **admins**. Tourists require
 ## System Design
 Misfar follows a client-server architecture to ensure efficient communication between clients (users) and the server. This architecture allows for scalability and easy maintenance.
 
-## Conclusion and Future Work
+## Future Work
 Misfar's plans include expanding to cover all cities in Saudi Arabia, implementing features like liking and replying to specific reviews, and adding videos along with reviews. An app version and additional features related to Saudi seasons and tour planning are also planned.
 
 ## Resources
