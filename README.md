@@ -2,12 +2,10 @@
 A review website for Saudi Arabia attractions
 
 # Misfar Presentation
-
-This is the README file for the Misfar project, which is a software engineering project developed for IT 320. The project team members are:
-- Ghadeer ALMaymoon
-- Randa Bakhashwain
-- Manar Mutaieb
-- Dhai ALMurshed
+- [Ghadeer Almaymoon](https://github.com/ghadeerAbdulmajeed)
+- [Randa Bakhashwain](https://github.com/Rand-msb)
+- [Manar Mutaieb](https://github.com/ManarMutaieb)
+- [Dhai ALMurshed](https://github.com/Dhaialmurshed)
 
 The project is supervised by T.Nora Madhi.
 
